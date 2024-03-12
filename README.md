@@ -8,5 +8,7 @@ include_directories(${OpenCV_INCLUDE_DIRS})
 
 mkdir build; cd build; cmake ..; make
 
+ps: must excute 'RkLunch-stop.sh'  
+
 ## license
 MIT by Jim
